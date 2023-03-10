@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vojak</h1>
-<h3 align="center">IT student, C# Programmer</h3>
-<h3 align="center">Currently trying to make games in Unity :]</h3>
+<h3 align="center">IT student, C# Programmer, Video Games enjoyer</h3>
+<h4 align="center">Currently trying to make games in Unity :]</h3>
 
 - 🔭 I’m currently working on **Big Secret Game**
 - 🌱 I’m currently learning **Shaders, Unreal**
