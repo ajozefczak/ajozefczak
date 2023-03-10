@@ -2,7 +2,7 @@
 <h3 align="center">C# Programmer, trying to make games in Unity</h3>
 
 - 🔭 I’m currently working on **Secret Tycoon Game**
-- 🌱 I’m currently learning **Unity, Unreal**
+- 🌱 I’m currently learning **Shaders, Unreal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
