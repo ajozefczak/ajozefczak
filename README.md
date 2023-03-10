@@ -6,8 +6,8 @@
 <p align ="center">🌱 I’m currently learning **Shaders, Unreal**</p>
 
 <h3 align="center">Links:</h3>
-<a align="center" href="https://thevojak.itch.io/">Vojak</a> - itch.io profile (released games)
 <p align="center">
+<a href="https://thevojak.itch.io/">Vojak</a> - itch.io profile (released games)
 </p>
 
 <h3 align="center">Main languages and Tools:</h3>
