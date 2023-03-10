@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vojak</h1>
 <h3 align="center">C# Programmer, trying to make games in Unity</h3>
 
-- 🔭 I’m currently working on **secret game project**
+- 🔭 I’m currently working on **Secret Tycoon Game**
 - 🌱 I’m currently learning **Unity, Unreal**
 
 <h3 align="left">Connect with me:</h3>
