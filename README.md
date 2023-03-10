@@ -2,8 +2,8 @@
 <h3 align="center">IT student, C# Programmer, Video Games enjoyer</h3>
 <h4 align="center">Currently trying to make games in Unity :]</h3>
 
-- 🔭 I’m currently working on **Big Secret Game**
-- 🌱 I’m currently learning **Shaders, Unreal**
+🔭 I’m currently working on **Big Secret Game**
+🌱 I’m currently learning **Shaders, Unreal**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://thevojak.itch.io/">Vojak</a> - itch.io profile (released games)
