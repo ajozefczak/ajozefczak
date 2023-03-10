@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Shaders, Unreal**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://thevojak.itch.io/">Vojak</a> - itch.io profile (portfolio)
 <p align="left">
 </p>
 
