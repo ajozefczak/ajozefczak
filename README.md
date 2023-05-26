@@ -6,7 +6,7 @@
 
 <h3 align="center">Links:</h3>
 <p align="center">
-<a href="https://thevojak.itch.io/">Vojak</a> - itch.io profile (released games)
+<a href="https://thevojak.itch.io/">Vojak</a> - itch.io profile (my projects)
 </p>
 
 <h3 align="center">Main languages and Tools:</h3>
