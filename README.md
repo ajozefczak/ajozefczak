@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vojak</h1>
-<h3 align="center">C# Programmer</h3>
+<h3 align="center">I'm making games</h3>
 
 <h3 align="center">Links:</h3>
 <p align="center">
